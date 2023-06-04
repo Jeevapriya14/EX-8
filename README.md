@@ -41,9 +41,14 @@ while True:
     c.send(ClientMessage.encode())
 ```
 
-OUTPUT :
+CLIENT OUTPUT :
 
-![EX-8 APPLICATION USING TCP SOCKETS - CREATING ECHO CLIENT-SERVER](https://github.com/kannan0071/EX-8/assets/119641638/bf5936eb-6a19-40fe-bc14-2e242afb67fd)
+![EX-8 APPLICATION USING TCP SOCKETS - CREATING ECHO CLIENT](https://github.com/Jeevapriya14/EX-8/assets/121003043/ea1bc0ce-1be3-4773-b4e3-840f17ce3ffb)
+
+SERVER CLIENT:
+
+![EX-8 APPLICATION USING TCP SOCKETS - CREATING ECHO SERVER](https://github.com/Jeevapriya14/EX-8/assets/121003043/5ada2785-74f5-4521-976b-357d3f607bea)
+
 
 RESULT :
 
